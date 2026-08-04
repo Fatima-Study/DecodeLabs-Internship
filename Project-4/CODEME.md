@@ -15,6 +15,7 @@
 - [Tools and Technologies](#tools-and-technologies)
 - [Methodology](#methodology)
 - [Key Insights](#key-insights)
+- [Project Structure](#project-structure)
 - [Output](#output)
 - [How to Run This Project](#how-to-run-this-project)
 - [Future Work](#future-work)
@@ -89,6 +90,26 @@ The assessment was performed in four phases:
 - Provided security recommendations to mitigate identified vulnerabilities.
 
 ---
+
+# Project Structure
+
+```text
+DecodeLabs-Internship/
+│
+├── Project-4/
+│   ├── README.md
+│   ├── Modern_Web_Application_Security_Audit_Report.pdf
+│   ├── screenshots/
+│   │   ├── figure1.png   (OWASP Juice Shop Home Page)
+│   │   ├── figure2.png   (Nmap Network Scan Results)
+│   │   ├── figure3.png   (Nikto Vulnerability Scan Results)
+│   │   ├── figure4.png   (User Registration and Login in OWASP Juice Shop)
+│   │   └── figure5.png   (Burp Suite HTTP Traffic Analysis)
+│   ├── LICENSE
+│   └── .gitignore
+│
+└── README.md
+```
 
 # Output
 
