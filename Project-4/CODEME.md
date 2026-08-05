@@ -2,7 +2,6 @@
 
 # Project 4
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue)
 ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-success)
 ![Nikto](https://img.shields.io/badge/Nikto-Vulnerability%20Scanner-red)
