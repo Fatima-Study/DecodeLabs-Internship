@@ -98,8 +98,7 @@ DecodeLabs-Internship/
 │
 ├── Project-4/
 │   ├── README.md
-│   ├── Modern_Web_Application_Security_Audit_Report.pdf
-│   ├── screenshots/
+│   ├── Report-Security_Assesment.pdf/
 │   │   ├── figure1.png   (OWASP Juice Shop Home Page)
 │   │   ├── figure2.png   (Nmap Network Scan Results)
 │   │   ├── figure3.png   (Nikto Vulnerability Scan Results)
