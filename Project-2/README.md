@@ -77,7 +77,6 @@ Caesar-Cipher-Encryption-Decryption/
 │   └── Encryption and Decryption_Report.docx
 │
 ├── README.md
-├── requirements.txt
 ├── LICENSE
 ├── .gitignore
 ```
