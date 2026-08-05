@@ -179,12 +179,6 @@ The program will evaluate the password and display whether it is **Weak**, **Med
 
 ## Author & Contact
 
-**Project:** Caesar Cipher Encryption & Decryption
-
-**Internship:** Cyber Security Internship
-
-**LinkedIn:** linkedin.com/in/fatima-taufique-1313b633b
-
 <p align="center">
   <img src="https://github.com/Fatima-Study.png" width="120" alt="Fatima">
 </p>
