@@ -71,22 +71,17 @@ The program follows these steps:
 ```text
 Password-Strength-Checker/
 │
-├── src/
-│   └── password_strength_checker.py
+├── CODE-Password_Checker.txt
 │
-├── screenshots/
+├── OUTPUT-Evaluation.pdf/
 │   ├── weak-password.png
 │   ├── medium-password.png
 │   └── strong-password.png
-│
-├── docs/
-│   └── Project_Report.pdf
 │
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
 ├── .gitignore
-└── CONTRIBUTING.md
 ```
 
 ---
