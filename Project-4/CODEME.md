@@ -155,10 +155,11 @@ Execute the following tools:
 
 Open the project report to review:
 
-- Methodology
 - Scan results
 - Identified vulnerabilities
-- Security recommendations
+- Description
+- Impact
+- Recommendations
 
 ---
 
