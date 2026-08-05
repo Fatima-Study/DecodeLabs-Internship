@@ -164,19 +164,13 @@ git clone https://github.com/Fatima-Study/DecodeLabs-Internship.git
 
 ## Author & Contact
 
-**Project:** Caesar Cipher Encryption & Decryption
-
-**Internship:** Cyber Security Internship
-
-**LinkedIn:** linkedin.com/in/fatima-taufique-1313b633b
-
 <p align="center">
   <img src="https://github.com/Fatima-Study.png" width="120" alt="Fatima">
 </p>
 
 <p align="center">
   <strong>Fatima</strong><br>
-  Cybersecurity Student | DecodeLabs Cyber Security Internship (August 2026 Batch)
+  Cybersecurity | DecodeLabs-Internship (August 2026 Batch)
 </p>
 
 <p align="center">
