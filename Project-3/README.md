@@ -67,21 +67,20 @@ The project follows these steps:
 ```text
 Phishing-Awareness-Analysis/
 │
-├── report/
-│   └── Project_Report.pdf
-│
-├── screenshots/
-│   ├── sample-1.png
-│   ├── sample-2.png
-│   ├── sample-3.png
-│   ├── sample-4.png
-│   └── sample-5.png
-│
 ├── README.md
+├── Suspicious_Keyword_Analysis.md
+├── URL_Analysis.md
+├── risk_level_classification.png
 ├── LICENSE
-└── .gitignore
+├── .gitignore
+│
+├── samples/
+│   ├── sample1_fake_bank_alert.png
+│   ├── sample2_fake_delivery_notification.png
+│   ├── sample3_fake_password_expiry_alert.png
+│   ├── sample4_suspicious_delivery_message.png
+│   └── sample5_normal_training_notice.png
 ```
-
 ---
 
 # Key Insights
