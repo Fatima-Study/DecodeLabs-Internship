@@ -2,6 +2,11 @@
 
 # Project 1
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Project](https://img.shields.io/badge/Project-Password%20Strength%20Checker-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 🔐 Password Strength Checker
 
 > A Python-based Password Strength Checker that evaluates password security using rule-based validation and classifies passwords as Weak, Medium, or Strong.
@@ -172,12 +177,24 @@ The program will evaluate the password and display whether it is **Weak**, **Med
 
 ---
 
-# Author & Contact
+## Author & Contact
 
-**Author:** Fatima
-
-**Project:** Password Strength Checker
+**Project:** Caesar Cipher Encryption & Decryption
 
 **Internship:** Cyber Security Internship
 
 **LinkedIn:** linkedin.com/in/fatima-taufique-1313b633b
+
+<p align="center">
+  <img src="https://github.com/Fatima-Study.png" width="120" alt="Fatima">
+</p>
+
+<p align="center">
+  <strong>Fatima</strong><br>
+  Cybersecurity | DecodeLabs-Internship (August 2026 Batch)
+</p>
+
+<p align="center">
+  <a href="https://github.com/Fatima-Study">GitHub Profile</a> •
+  <a href="https://www.linkedin.com/in/fatima-taufique-1313b633b/">LinkedIn</a>
+</p>
