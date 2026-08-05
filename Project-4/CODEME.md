@@ -96,8 +96,11 @@ The assessment was performed in four phases:
 ```text
 DecodeLabs-Internship/
 │
-├── Project-4/
-│   ├── README.md
+├── README.md
+|
+|   ├── Workflow.txt
+|   ├── Risk.Analysis.md
+|   |
 │   ├── Security_Audit_Report.pdf
 │   │   ├── figure1.png   (OWASP Juice Shop Home Page)
 │   │   ├── figure2.png   (Nmap Network Scan Results)
@@ -107,7 +110,6 @@ DecodeLabs-Internship/
 │   ├── LICENSE
 │   └── .gitignore
 │
-└── README.md
 ```
 
 # Output
