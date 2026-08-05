@@ -2,7 +2,6 @@
 
 # Project 3
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Phishing%20Awareness-red)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
