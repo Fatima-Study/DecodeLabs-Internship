@@ -181,12 +181,24 @@ Open the project report to review:
 
 ---
 
-# Author & Contact
+## Author & Contact
 
-**Author:** Fatima
+**Project:** Caesar Cipher Encryption & Decryption
 
-**Project:** Modern Web Application Security Audit Report
-
-**Internship:** Cybersecurity Internship
+**Internship:** Cyber Security Internship
 
 **LinkedIn:** linkedin.com/in/fatima-taufique-1313b633b
+
+<p align="center">
+  <img src="https://github.com/Fatima-Study.png" width="120" alt="Fatima">
+</p>
+
+<p align="center">
+  <strong>Fatima</strong><br>
+  Cybersecurity Student | DecodeLabs Cyber Security Internship (August 2026 Batch)
+</p>
+
+<p align="center">
+  <a href="https://github.com/Fatima-Study">GitHub Profile</a> •
+  <a href="https://www.linkedin.com/in/fatima-taufique-1313b633b/">LinkedIn</a>
+</p>
