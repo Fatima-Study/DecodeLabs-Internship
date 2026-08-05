@@ -2,6 +2,12 @@
 
 # Project 4
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-success)
+![Nikto](https://img.shields.io/badge/Nikto-Vulnerability%20Scanner-red)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-Community-orange)
+
 # 🛡️ Modern Web Application Security Audit Report
 
 > A comprehensive security assessment of the OWASP Juice Shop web application using industry-standard penetration testing tools to identify security vulnerabilities and recommend mitigation strategies.
