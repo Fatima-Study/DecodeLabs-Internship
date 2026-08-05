@@ -79,7 +79,6 @@ Password-Strength-Checker/
 │   └── strong-password.png
 │
 ├── README.md
-├── requirements.txt
 ├── LICENSE
 ├── .gitignore
 ```
