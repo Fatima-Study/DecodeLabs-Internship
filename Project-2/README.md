@@ -66,22 +66,20 @@ The program follows these steps:
 ```text
 Caesar-Cipher-Encryption-Decryption/
 │
-├── src/
-│   └── caesar_cipher.py
+├── CODE-Encrypt_Decrypt.txt
 │
-├── screenshots/
+├── OUTPUT.pdf/
 │   ├── test-case-1.png
 │   ├── test-case-2.png
 │   └── test-case-3.png
 │
 ├── docs/
-│   └── Project_Report.pdf
+│   └── Encryption and Decryption_Report.docx
 │
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
 ├── .gitignore
-└── CONTRIBUTING.md
 ```
 
 ---
