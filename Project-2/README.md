@@ -2,6 +2,10 @@
 
 # Project 2
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 🔐 Caesar Cipher Encryption & Decryption
 
 > A Python-based Caesar Cipher program that encrypts and decrypts text using a user-defined shift key.
@@ -66,21 +70,21 @@ The program follows these steps:
 ```text
 Caesar-Cipher-Encryption-Decryption/
 │
-├── CODE-Encrypt_Decrypt.txt
+├── CODE-Encrypt_Decrypt.py
 │
-├── OUTPUT.pdf/
+├── OUTPUT/
 │   ├── test-case-1.png
 │   ├── test-case-2.png
-│   └── test-case-3.png
+│   ├── test-case-3.png
+│   └── Encryption_Decryption_Output.pdf
 │
 ├── docs/
-│   └── Encryption and Decryption_Report.docx
+│   └── Encryption_and_Decryption_Report.docx
 │
 ├── README.md
 ├── LICENSE
-├── .gitignore
+└── .gitignore
 ```
-
 ---
 
 # Key Insights
@@ -180,12 +184,16 @@ The program will display the encrypted text and then decrypt it back to the orig
 
 ---
 
-# Author & Contact
+## Author
 
-**Author:** Fatima
+<img src="https://github.com/Fatima-Study.png" width="120" style="border-radius:50%;">
+
+**Fatima**
 
 **Project:** Caesar Cipher Encryption & Decryption
 
 **Internship:** Cyber Security Internship
 
 **LinkedIn:** linkedin.com/in/fatima-taufique-1313b633b
+
+> Developed as part of the **DecodeLabs Cyber Security Internship – August 2026 Batch**.
