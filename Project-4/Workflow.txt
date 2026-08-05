@@ -1,1 +1,55 @@
+SECURITY ASSESSMENT WORKFLOW
 
+1. Environment Setup
+   - Start Kali Linux virtual machine.
+   - Verify Docker service.
+   - Deploy the OWASP Juice Shop application.
+
+            │
+            ▼
+
+2. Network Scanning
+   - Perform port scanning using Nmap.
+   - Identify open ports and running services.
+
+            │
+            ▼
+
+3. Vulnerability Assessment
+   - Scan the web application using Nikto.
+   - Identify missing security headers and configuration issues.
+
+            │
+            ▼
+
+4. HTTP Traffic Analysis
+   - Intercept HTTP requests and responses using Burp Suite.
+   - Analyze user registration and login traffic.
+
+            │
+            ▼
+
+5. Finding Analysis
+   - Review scan results.
+   - Classify vulnerabilities based on severity.
+
+            │
+            ▼
+
+6. Risk Assessment
+   - Evaluate the impact of identified vulnerabilities.
+   - Prioritize risks for remediation.
+
+            │
+            ▼
+
+7. Recommendations
+   - Suggest appropriate security controls.
+   - Recommend configuration improvements.
+
+            │
+            ▼
+
+8. Final Security Audit Report
+   - Document methodology.
+   - Present findings, evidence, and remediation recommendations.
