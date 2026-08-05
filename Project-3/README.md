@@ -2,6 +2,11 @@
 
 # Project 3
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Phishing%20Awareness-red)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 🛡️ Phishing Awareness Analysis
 
 > A cybersecurity awareness project that analyzes simulated phishing emails to identify common phishing indicators, assess risk levels, and improve threat recognition skills.
@@ -157,12 +162,25 @@ git clone https://github.com/Fatima-Study/DecodeLabs-Internship.git
 
 ---
 
-# Author & Contact
+## Author & Contact
 
-**Author:** Fatima
+**Project:** Caesar Cipher Encryption & Decryption
 
-**Project:** Phishing Awareness Analysis
-
-**Internship:** Cybersecurity Internship
+**Internship:** Cyber Security Internship
 
 **LinkedIn:** linkedin.com/in/fatima-taufique-1313b633b
+
+<p align="center">
+  <img src="https://github.com/Fatima-Study.png" width="120" alt="Fatima">
+</p>
+
+<p align="center">
+  <strong>Fatima</strong><br>
+  Cybersecurity Student | DecodeLabs Cyber Security Internship (August 2026 Batch)
+</p>
+
+<p align="center">
+  <a href="https://github.com/Fatima-Study">GitHub Profile</a> •
+  <a href="https://www.linkedin.com/in/fatima-taufique-1313b633b/">LinkedIn</a>
+</p>
+
