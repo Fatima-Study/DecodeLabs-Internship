@@ -16,7 +16,6 @@
 - [Methods](#methods)
 - [Project Structure](#project-structure)
 - [Key Insights](#key-insights)
-- [Suspicious Keyword Analysis](#suspicious-keyword-analysis)
 - [Output](#output)
 - [How to Run This Project](#how-to-run-this-project)
 - [Future Work](#future-work)
